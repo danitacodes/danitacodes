@@ -2,7 +2,7 @@
 
 ...
 
-An educator turned web developer.
+An educator turned software engineer.
 
 ...
 
