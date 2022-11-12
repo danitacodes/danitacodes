@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danita Codes</h1>
 <h3 align="center">A former educator turned Software Engineer</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **open source projects**
+- 🤝 I’m looking for help with **finding a job**
 
 - 👨‍💻 All of my projects are available at [https://www.danitacodes.com](https://www.danitacodes.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **danitacodes@gmail.com**
 
-- ⚡ Fun fact **I have been a middle school math teacher for 14 years and I am addicted to AYCE KKBQ**
+- ⚡ Fun fact **I have been a middle school math teacher for 15 years and I am addicted to AYCE KKBQ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
